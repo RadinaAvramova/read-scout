@@ -1,0 +1,2 @@
+# read-scout
+read-scout
